@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          Darcski
 paginate:       5
 baseurl:        ""
 url:            "https://darcski.github.io"
@@ -19,7 +19,7 @@ markdown:       kramdown
 author:
   name:         Darcski
   url:          http://darcski.github.io
-  email:        chesterhow@gmail.com
+  email:        noemail@example.com
 
 # Custom vars
 version:        3.4.1
