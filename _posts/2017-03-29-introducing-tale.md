@@ -1,24 +1,11 @@
 ---
 layout: post
-title:  "Introducing Tale"
-author: "Chester"
+title:  "FUZE Boxes"
+author: "Darcski"
 ---
 
-Tale is minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.
+In the previous lesson we were introduced to FUZE Boxes, a small computer that allows you to write in **BASIC** (an acronym for Beginner's All-purpose Symbolic Instruction Code), a stepping stone for more complicated languages.
 
-## Tale features
-- Compatible with GitHub Pages
-- Responsive design (looks just as good on mobile)
-- Syntax highlighting, with the help of Pygments
-- Markdown and HTML text formatting
-- Pagination of posts
+During the lesson I could see the similarities between this and other coding languages as well (such as Lua), and my partner and I got up to the second part of the booklet, named "Variables". It also went over some basic commands, such as printing to the output, and changing the colour of the text and background which reminded me of Scratch in some ways.
 
-Head over to the [Example Content]({{ site.baseurl }}/2017-03-16/example-content) post for a showcase of Tale's text formatting features.
-
-## Browser Support
-Tale works on most if not all modern browsers, including Chrome, Safari and Firefox 👍🏼
-
-## Download or Contribute
-Tale is publicly hosted on GitHub, so go ahead and download or fork it at the [GitHub repository](https://github.com/chesterhow/tale). If you spot any bugs or have any suggestions, feel free to create an issue or make a pull request.
-
-Thanks for checking out Tale!
+Overall I think it was a fun learning experience trying to figure out things on our own.
