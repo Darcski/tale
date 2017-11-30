@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "The Mystery of the Filler Post"
-author: "Chester"
+title: "Blog Catchup"
+author: "Darcski"
 ---
 
-Hornswaggle measured fer yer chains chase run a shot across the bow Chain Shot flogging Pirate Round galleon rope's end aft. Prow fire in the hole keel rum Barbary Coast bilge water crimp interloper square-rigged Letter of Marque. Interloper Arr barkadeer mutiny snow chantey crow's nest flogging gun Davy Jones' Locker.
+Instead of carrying on with our tragically postponed FUZE Box career, my partner and I decided our blogs needed a bit of an upgrade.
 
-Bilge jolly boat barque topsail interloper chandler spanker scuttle Arr sloop. Shrouds belaying pin run a shot across the bow loaded to the gunwalls smartly marooned hogshead handsomely list parley. Spyglass keel Privateer mizzenmast hulk ballast case shot clipper main sheet killick.
+After searching around for some themes, it was obvious that some didn’t work. At the start, we had little idea why this was. We knew that some themes requires downloads and installs, so those were off limits. Others, however, seemed not to work for no particular reason.
 
-Careen hempen halter Letter of Marque pillage swing the lead take a caulk Sail ho jury mast walk the plank ho. Haul wind Privateer flogging Letter of Marque scuppers heave down to go on account keel Jack Ketch grapple. Marooned pink lee crow's nest chase Pirate Round boom scourge of the seven seas landlubber or just lubber deadlights.
+After a bit of searching, I found a few helpful  things in the config.yml, namely: “url” and “baseurl”. The first obvious thing to do was to change the url property to our blog’s url. Still, I did not know what baseurl was. It was only after searching around on the github pages FaQ, that I found that the baseurl was the repository. This meant I could leave it blank, since this blog is my main repository.
 
-[Pirate Ipsum](http://pirateipsum.me/)
+For the rest of the lesson, I helped my partner find a theme, and also showed him the difference between url and baseurl. Many of them unfortunately also required downloads, which wasted a lot of our time.
+
+In conclusion, I think that in this lesson we were quite productive, and I am happy with the result.
