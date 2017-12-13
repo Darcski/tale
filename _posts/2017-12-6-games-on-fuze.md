@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Games on FUZE"
+author: "Darcski"
+---
+
 At the beginning of the lesson, we finished our work on light detectors. We were about to move on to the next activity, when we 
 were told to Snake on the FUZE Boxes. I hadn't really thought about making games on the FUZE Boxes before, though I did have a few
 ideas about how it was done (i.e defchars, and having different keys to change the hvtab).
